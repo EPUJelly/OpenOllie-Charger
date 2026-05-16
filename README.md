@@ -5,3 +5,4 @@ this board is very simmilar to the original but includes USBC charging and brigh
 this project is fully open-source and this repo includes all of the manufacturing files as well as the EASYEDA project file.
 Made by EPUJelly.
 3D bracket files also available on printables: https://www.printables.com/model/1705003-sphero-ollie-usb-c-mod-bracket
+project files also available on OSHW lab: https://oshwlab.com/epupband/openollie
